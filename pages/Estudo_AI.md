@@ -1,0 +1,12 @@
+- Conceitos para estudar:
+	- O que é uma rede neural (camadas, neurônios, pesos, bias). [[estudo_rede_neural]]
+	- Forward pass e função de ativação (ReLU, sigmoid). [[ReLU]]
+	- Perda (loss) e backpropagation (não precisa saber derivar, só entender o que acontece).
+	- Overfitting, underfitting.
+	- Dataset, rótulo, batch, epochs.
+	- Classificação vs Detecção.
+	- [[Machine Learning]] vs [[Deep Learning]]
+-
+-
+- ## Cursos
+	- [[OpenCV]]

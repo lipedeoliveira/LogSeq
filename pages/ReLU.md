@@ -1,0 +1,6 @@
+- "Rectified LInear Unit", é nome de uma função de ativação utilizada no meio de redes neurais, especialmente em redes neurais profundas ([[Deep Learning]]). Matematicamente é definida como:
+- *``f(x)=max(0,x)``*
+-
+- Ou seja, para um determinado valor *xx*, a saída sera 0 se xx for menor que 0, e será xx caso contrário. Em outras palavras, isso significa que a função é linear para valores positivos de xx, e com valores valores negativos, a função "Desliga"
+-
+-

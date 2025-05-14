@@ -1,0 +1,15 @@
+#https://books.google.com.br/books?id=eZmtBAAAQBAJ&printsec=copyright&hl=pt-BR#v=onepage&q&f=false
+#Na página acima, se encontra o livro de Luiz Eduardo Borges, onde na página 15, se encontra 
+#a história do python
+
+
+
+# Introdução a programação com python (Algoritmos e lógica de programação para iniciantes) de Nilo Ney Coutinho
+# Menezes 
+#1.5, página 24
+#Justifica python ser uma linguagem simples e clara, contudo com uma boa capacidade de administrar sistemas 
+#e desenvolver projetos grandes
+
+
+#Procurar por algo que ajude aqui
+#https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%C3%87%C3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y

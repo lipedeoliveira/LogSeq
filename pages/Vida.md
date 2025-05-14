@@ -1,0 +1,132 @@
+- [[Estudos]]
+- [[Compromissos]]
+-
+- ## Segunda-feira
+- LATER  06:00 -
+- LATER  07:00 -
+- LATER  08:00 -
+- LATER   09:00 -
+- LATER   10:00 -
+- LATER   11:00 -
+- LATER  12:00 -
+- LATER  13:00 -
+- LATER  14:00 -
+- LATER  15:00 -
+- LATER  16:00 -
+- LATER  17:00 -
+- LATER  18:00 -
+- LATER  19:00 -
+- LATER  20:00 -
+- LATER  21:00 -
+- LATER 22:00 -
+- LATER  23:00 -
+- LATER  00:00 -
+-
+- ## Terça-Feira
+- LATER  06:00 -
+- LATER  07:00 -
+- LATER  08:00 -
+- LATER   09:00 -
+- LATER   10:00 -
+- LATER   11:00 -
+- LATER  12:00 -
+- LATER  13:00 -
+- LATER  14:00 -
+- LATER  15:00 -
+- LATER  16:00 -
+- LATER  17:00 -
+- LATER  18:00 -
+- LATER  19:00 -
+- LATER  20:00 -
+- LATER  21:00 -
+- LATER 22:00 -
+- LATER  23:00 -
+- LATER  00:00 -
+-
+-
+- ## Quarta-Feira
+- LATER  06:00 -
+- LATER  07:00 -
+- LATER  08:00 -
+- LATER   09:00 -
+- LATER   10:00 -
+- LATER   11:00 -
+- LATER  12:00 -
+- LATER  13:00 -
+- LATER  14:00 -
+- LATER  15:00 -
+- LATER  16:00 -
+- LATER  17:00 -
+- LATER  18:00 -
+- LATER  19:00 -
+- LATER  20:00 -
+- LATER  21:00 -
+- LATER 22:00 -
+- LATER  23:00 -
+- LATER  00:00 -
+-
+- ## Quinta-Feira
+- LATER  06:00 -
+- LATER  07:00 -
+- LATER  08:00 -
+- LATER   09:00 -
+- LATER   10:00 -
+- LATER   11:00 -
+- LATER  12:00 -
+- LATER  13:00 -
+- LATER  14:00 -
+- LATER  15:00 -
+- LATER  16:00 -
+- LATER  17:00 -
+- LATER  18:00 -
+- LATER  19:00 -
+- LATER  20:00 -
+- LATER  21:00 -
+- LATER 22:00 -
+- LATER  23:00 -
+- LATER  00:00 -
+-
+- ## Sexta-Feira
+- LATER  06:00 -
+- LATER  07:00 -
+- LATER  08:00 -
+- LATER   09:00 -
+- LATER   10:00 -
+- LATER   11:00 -
+- LATER  12:00 -
+- LATER  13:00 -
+- LATER  14:00 -
+- LATER  15:00 -
+- LATER  16:00 -
+- LATER  17:00 -
+- LATER  18:00 -
+- LATER  19:00 -
+- LATER  20:00 -
+- LATER  21:00 -
+- LATER 22:00 -
+- LATER  23:00 -
+- LATER  00:00 -
+-
+- ## Sábado
+- LATER  06:00 -
+- LATER  07:00 -
+- LATER  08:00 -
+- LATER   09:00 -
+- LATER   10:00 -
+- LATER   11:00 -
+- LATER  12:00 -
+- LATER  13:00 -
+- LATER  14:00 -
+- LATER  15:00 -
+- LATER  16:00 -
+- LATER  17:00 -
+- LATER  18:00 -
+- LATER  19:00 -
+- LATER  20:00 -
+- LATER  21:00 -
+- LATER 22:00 -
+- LATER  23:00 -
+- LATER  00:00 -
+-
+-
+-

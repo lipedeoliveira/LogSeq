@@ -1,0 +1,15 @@
+table td {
+  padding: 5px;
+}
+
+td[priority="Alta"] {
+  background-color: #ffcccc;
+}
+
+td[priority="Média"] {
+  background-color: #fff0b3;
+}
+
+td[priority="Baixa"] {
+  background-color: #ccffcc;
+}
