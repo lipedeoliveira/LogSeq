@@ -1,0 +1,5 @@
+- Resolvendo três exercícios da CIA Triad
+	- Como é mostrado em [[pilares da seguranca da informacao]] ,a segurança da informação se baseia em pilares, contudo, os três principais e que dão nome ao CIA Triad, são correspondentemente a: Confiabilidade, Integridade e Disponibilidade. O CIA Triad ajuda a dar um valor aos dados e consequentemente associar uma importância a eles.
+	- [[Integridade]]
+	- [[Disponibilidade]]
+-

@@ -1,0 +1,12 @@
+#O que é uma rede neural?
+
+"""
+
+Uma rede neural é um programa de aprendizado de máquina capaz de tomar
+decisoes de forma similar ao pensamento humano comum, utilizando-se por
+meio de interações que simulam o funcionamento biologico dos neurois.
+
+
+
+
+"""

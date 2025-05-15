@@ -1,0 +1,2 @@
+- Para que os dados sejam úteis, eles devem estár disponíveis e acessíveis ao usuário. A principal ocupação na tríade da CIA é que as informações estejam disponíveis quando os usuários autorizados precisarem acessá-las
+-
